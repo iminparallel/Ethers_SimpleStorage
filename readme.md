@@ -1,5 +1,5 @@
 1. git clone
-2. npm install
+2. yarn
 3. yarn compile
 4. create .env with the following </br>
    RPC_URL = ganache rpc url </br>
